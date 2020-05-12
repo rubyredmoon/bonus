@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rubyredmoon/bonus/static/css/main.d1b05096.chunk.css",
+    "main.js": "/rubyredmoon/bonus/static/js/main.1f0c1c8c.chunk.js",
+    "main.js.map": "/rubyredmoon/bonus/static/js/main.1f0c1c8c.chunk.js.map",
+    "runtime-main.js": "/rubyredmoon/bonus/static/js/runtime-main.e8ea6e83.js",
+    "runtime-main.js.map": "/rubyredmoon/bonus/static/js/runtime-main.e8ea6e83.js.map",
+    "static/js/2.aadef174.chunk.js": "/rubyredmoon/bonus/static/js/2.aadef174.chunk.js",
+    "static/js/2.aadef174.chunk.js.map": "/rubyredmoon/bonus/static/js/2.aadef174.chunk.js.map",
+    "index.html": "/rubyredmoon/bonus/index.html",
+    "precache-manifest.297db84ebef2dab2fa19f2f35f640253.js": "/rubyredmoon/bonus/precache-manifest.297db84ebef2dab2fa19f2f35f640253.js",
+    "service-worker.js": "/rubyredmoon/bonus/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/rubyredmoon/bonus/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.aadef174.chunk.js.LICENSE.txt": "/rubyredmoon/bonus/static/js/2.aadef174.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rubyredmoon/bonus/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8ea6e83.js",
+    "static/js/2.aadef174.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1f0c1c8c.chunk.js"
+  ]
+}
